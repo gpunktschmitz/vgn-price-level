@@ -7,6 +7,7 @@ the current price level can be found in the file [vgn-current.csv](vgn-current.c
 
 | valid from | url                                                                                          |
 | ---------- | -------------------------------------------------------------------------------------------- |
+| 2024-01-01 | https://www.vgn.de/media/preistabelle-2024.pdf                                               |
 | 2023-01-01 | https://web.archive.org/web/20230202075943/https://www.vgn.de/media/preistabelle-2023.pdf    |
 | 2022-01-01 | https://web.archive.org/web/20211230080633/https://www.vgn.de/media/preistabelle-2022.pdf    |
 | 2021-01-01 | https://web.archive.org/web/20210126212651/https://www.vgn.de/media/preistabelle-2021.pdf/   |
